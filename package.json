@@ -1,0 +1,35 @@
+{
+  "_from": "git+https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+  "_id": "cordova-plugin-pdfdigisign@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-pdfdigisign",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+    "rawSpec": "https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+    "saveSpec": "git+https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+    "fetchSpec": "https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git#326b7bfd575fbf125fd2a1dab18ed89c6b94020d",
+  "_spec": "https://github.com/chrisg2204/cordova-plugin-pdfdigisign.git",
+  "_where": "/home/cgimenez/Documentos/devapps/test",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-pdfdigisign",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "cordova-plugin-pdfdigisign",
+  "name": "cordova-plugin-pdfdigisign",
+  "version": "1.0.0"
+}

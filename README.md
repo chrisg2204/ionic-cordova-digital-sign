@@ -1,1 +1,1 @@
-id.kodekreatif.PDFDigiSign
+# PLUGIN CORDOVA - FIRMA DIGITAL
